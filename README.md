@@ -1,4 +1,4 @@
-![](https://github.com/Barbaris2/-HTML-SASS-devConnector/blob/master/images/DevConnector.png)
+![](https://github.com/Barbaris2/-MERN--change-links/blob/master/img/screen.png)
 
 # -MERN-devConnector
 
