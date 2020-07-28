@@ -13,8 +13,8 @@
 - Практика создания собственных хуков.
 - Практика работы с _REST API_.
 - Работа с _localStorage_
-- Стилистика приложения при помощи (materializecss.com)[https://materializecss.com].
-- Деплой приложения на (Heroku)[https://heroku.com].
+- Стилистика приложения при помощи [materializecss.com](https://materializecss.com).
+- Деплой приложения на [Heroku](https://heroku.com).
 
 ### Быстрый старт
 
