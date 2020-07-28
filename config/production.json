@@ -2,5 +2,5 @@
   "port": 80,
   "jwtSecret": "secret key for jwt",
   "mongoUri": "mongodb+srv://alex:1234qwer@cluster0.c2lsy.azure.mongodb.net/app?retryWrites=true&w=majority",
-  "baseUrl": "https://blooming-wildwood-52164.herokuapp.com/"
+  "baseUrl": "https://blooming-wildwood-52164.herokuapp.com"
 }
