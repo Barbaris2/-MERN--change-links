@@ -28,6 +28,6 @@
 
 - `git checkout master`- клиент и сервер
 
-### Ветки Подкаста:
+### Ветки репозитория:
 
 - `git checkout master`
